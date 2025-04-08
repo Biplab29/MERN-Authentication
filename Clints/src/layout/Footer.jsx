@@ -12,7 +12,6 @@ const Footer = () => {
       <div className="footer-container">
         <div className="footer-logo">
           <h2>MERN Authentication</h2>
-          {/* <p>Your ultimate guide to mastering the MERN stack.</p> */}
         </div>
         <div className="footer-social">
           <h3>Follow Me</h3>

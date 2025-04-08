@@ -19,7 +19,7 @@ const App = () => {
       <Route path="/" element={<Home />} />
       <Route path="/auth" element={<Auth />} />
       <Route path="/otp-verification/:email/:phone" element={<OtpVerification />} />
-      <Route path="/password/forgot" element={<ForgotPassword />} />
+      <Route path="/forgot/password" element={<ForgotPassword />} />
       <Route path="/password/reset/:token" element={<ResetPassword />} />
       
     </Routes>

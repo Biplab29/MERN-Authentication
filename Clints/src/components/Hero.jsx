@@ -10,9 +10,9 @@ const Hero = () => {
       <div className="hero-section">
         <img src={heroImage} alt="hero-image" />
         <h4>Hello, {user ? user.name : "Developer"}</h4>
-        <h1>Welcome to MERN Auth Tutorial</h1>
+        <h1> Welcome to MERN Authentication </h1>
         <p>
-          In this tutorial you are going to learn complete authentication using
+          In this project i have complete authentication using
           MERN stack while learning OTP verification with Twilio and Nodemailer.
         </p>
       </div>

@@ -13,12 +13,10 @@ const Instructor = () => {
           <h1>Biplab Mahata</h1>
           <h4>Your Instructor</h4>
           <p>
-            Hello! I'm Biplab Mahata, a passionate MERN stack developer
-            with a love for teaching and building scalable, robust applications.
-            With years of experience in JavaScript, React, Node.js, Express, and
-            MongoDB, I am dedicated to helping developers learn and grow their
-            skills. Join me in this journey to master authentication and the
-            MERN stack!
+            Hello! I'm Biplab Mahata, 
+            I want To start my career as a technical person in software field by 
+            using my technical knowledge and skills in learning environment 
+            for the better growth of the organization.
           </p>
           <div className="social-links">
             <a
